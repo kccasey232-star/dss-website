@@ -1,0 +1,14 @@
+/sentinel      /sentinel.html      200
+/sentinel/     /sentinel.html      200
+/utacc         /utacc.html         200
+/utacc/        /utacc.html         200
+/capabilities  /capabilities.html  200
+/capabilities/ /capabilities.html  200
+/people        /people.html        200
+/people/       /people.html        200
+/technology    /technology.html    200
+/technology/   /technology.html    200
+/future        /future.html        200
+/future/       /future.html        200
+/contact       /contact.html       200
+/contact/      /contact.html       200

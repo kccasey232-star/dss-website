@@ -1,0 +1,5 @@
+Upload your MP4 videos into this folder and name them:
+  hero.mp4  (homepage hero background)
+  sentinel.mp4 (Sentinel AI page hero background)
+  utacc.mp4 (UTACC page hero background)
+Netlify will host them with the site.
